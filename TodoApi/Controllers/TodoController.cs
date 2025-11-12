@@ -56,7 +56,7 @@ namespace TodoApi.Controllers
             return Ok(existing);
         }
 
-        [HttpDelete]
+        [HttpDelete] 
         [Route("/api/todo/{id}")]
         public IActionResult Delete(int id)
         {
