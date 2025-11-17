@@ -3,6 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 // clonando um novo repositorio no GitHub
 // Fazendo novamente o push para o GitHub
 // Fazendo novamente o pull para o Visual Studio
+// Dar merge no código
 namespace TodoApi
 {
     internal class Program
